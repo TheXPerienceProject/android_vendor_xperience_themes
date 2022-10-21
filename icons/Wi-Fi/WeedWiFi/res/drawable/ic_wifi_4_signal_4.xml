@@ -4,7 +4,7 @@
  edited to fix CAF wifi signal
 -->
 <vector android:height="24.0dip" android:width="24.0dip" android:viewportWidth="70.0" android:viewportHeight="72.0"
-    xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
     <path android:fillColor="#ffffffff" android:pathData="M36.5 7L37 10.5L35 9.5L36.5 7Z" android:strokeColor="#ffffffff" android:strokeWidth="1.0" android:strokeAlpha="0.827451" android:fillAlpha="0.827451" />
     <path android:fillColor="#ffffffff" android:pathData="M36.5 13L38 16.5L36 15.5L36.5 13Z" android:strokeColor="#ffffffff" android:strokeWidth="1.0" android:strokeAlpha="0.827451" android:fillAlpha="0.827451" />
     <path android:fillColor="#ffffffff" android:pathData="M33.5 15L34 17.5L32.5 21L32 18.5L33.5 15Z" android:strokeColor="#ffffffff" android:strokeWidth="1.0" android:strokeAlpha="0.827451" android:fillAlpha="0.827451" />
@@ -94,6 +94,4 @@
     <path android:fillColor="#ffffffff" android:pathData="M15.5 60L18 60.5L15.5 61L15.5 60Z" android:strokeColor="#ffffffff" android:strokeWidth="1.0" android:strokeAlpha="0.4235294" android:fillAlpha="0.4235294" />
     <path android:fillColor="#ffffffff" android:pathData="M28.5 61L29.5 63L28.5 61Z" android:strokeColor="#ffffffff" android:strokeWidth="1.0" android:strokeAlpha="0.4235294" android:fillAlpha="0.4235294" />
     <path android:fillColor="#ffffffff" android:pathData="M37 61Q40 60 39 63Q36 64 37 61Z" android:strokeColor="#ffffffff" android:strokeWidth="1.0" android:strokeAlpha="0.4235294" android:fillAlpha="0.4235294" />
-
-  <path android:fillColor="@android:color/white" android:pathData="m 24.401344,17.117563 h -1.056598 v 1.849791 h -1.506209 v -1.849791 h -3.602534 v -1.359946 l 3.344006,-5.8716006 h 1.764737 v 5.8844916 h 1.056598 z M 21.838537,15.770508 V 12.79926 q 0,-0.348044 0.01967,-0.754093 0.01968,-0.406048 0.03092,-0.522067 v 0 q -0.146131,0.360936 -0.528296,1.044134 v 0 l -1.83781,3.203274 z"/>
 </vector>
