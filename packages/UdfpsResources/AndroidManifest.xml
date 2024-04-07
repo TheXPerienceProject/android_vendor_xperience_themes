@@ -16,7 +16,7 @@
  */
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="mx.xperience.udfps.resources"
+    package="mx.xperience.udfps.animations"
     android:versionCode="1"
     android:versionName="1.0">
 
