@@ -21,6 +21,7 @@
 
    <string-array name="udfps_icons">
         <item>udfps_icon_default</item>
+        <item>kgd_osfingerprint_icon</item>
         <item>udfps_icon_miui</item>
         <item>udfps_icon_op</item>
         <item>udfps_icon_op_2077</item>
@@ -119,6 +120,7 @@
 
     <string-array translatable="false" name="udfps_animation_styles">
         <item>none</item>
+        <item>kgd_fingerprint_element_60fps</item>
         <item>bloom</item>
         <item>cyber</item>
         <item>electronic</item>
@@ -161,6 +163,7 @@
 
     <string-array translatable="false" name="udfps_animation_previews">
         <item>none_anim_1</item>
+        <item>kgd_fingerprint_element_60fps_45</item>
         <item>bloom_anim_14</item>
         <item>cyber_anim_9</item>
         <item>electronic_anim_7</item>
@@ -203,6 +206,7 @@
 
     <string-array translatable="false" name="udfps_animation_titles">
         <item>None</item>
+        <item>Keqing</item>
         <item>Bloom</item>
         <item>Cyber</item>
         <item>Electronic</item>
