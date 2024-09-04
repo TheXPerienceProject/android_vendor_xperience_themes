@@ -13,7 +13,7 @@
 	        <path android:fillColor="#ff000000" android:pathData="M12.00,7.50A4.50 4.50 -0.00 0 1 12.00,16.50" android:strokeLineCap="square" android:strokeLineJoin="miter"/>
 	    </group>
 	    <group
-	        android:name="manual_transform"
+            android:name="manual_transform"
 	        android:pivotX="12"
 	        android:pivotY="12"
 	        android:translateX="0"
